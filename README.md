@@ -5,7 +5,6 @@ This is a sample app that implements the ideal UI representation around the load
 
 
 ## Requirements
-Xcode 13 +
-Swift 5.5+
-iOS 15.0+
-
+- Xcode 13 +
+- Swift 5.5+
+- iOS 15.0+
